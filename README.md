@@ -1,2 +1,3 @@
 # dotfiles_OK
-A repo to contain my useful dotfiles.
+
+A repo for dotfiles I find useful.
